@@ -12,3 +12,7 @@ Some of the pages in this project are listed below:
 * Sign-up
 * Tables
 
+Some of the **Snap Shots** of the application are shared below
+
+Pic 1:
+
