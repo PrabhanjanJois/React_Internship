@@ -14,5 +14,7 @@ Some of the pages in this project are listed below:
 
 Some of the **Snap Shots** of the application are shared below
 
-Pic 1:
+Pic 1: Billing view page
 
+
+![Screenshot (312)](https://user-images.githubusercontent.com/72604642/136685686-c50c5b4b-cda7-4f0f-a9b4-1cf55252b071.png)
