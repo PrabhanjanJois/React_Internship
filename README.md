@@ -13,6 +13,10 @@ Some of the pages in this project are listed below:
 * Sign-up
 * Tables
 
+To view the website *in your browser* click below:
+* https://prabhanjanjois.github.io/React_Internship/pages/dashboard.html
+
+
 Some of the **Snap Shots** of the application are shared below
 
 Pic 1: Billing view page.
